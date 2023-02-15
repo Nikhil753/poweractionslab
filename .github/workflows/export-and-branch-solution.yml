@@ -26,7 +26,7 @@ on:
 
 env:
 #edit your values here
-  ENVIRONMENT_URL: 'https://org870544d5.crm8.dynamics.com/main.aspx?settingsonly=true#843723451'
+  ENVIRONMENT_URL: 'https://org870544d5.crm8.dynamics.com/'
   USERNAME: 'NIKHILCHAUHAN@nikhilzx.onmicrosoft.com'
 
 
